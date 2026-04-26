@@ -1,183 +1,167 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ae-ar/osn.com.epg.xml
-"#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="http://img.ikstatic.cn/MTc3NjE2Nzc1Nzg2NCMgNjQjanBn.jpg" group-title="Undefined",梦想成真
-http://live-pull-zego.ikstatic.cn/inkemain/1777123193996656.flv?stream_id=1777123193996656&stream_type=zego&codecInfo=8192&ikFastRate=1.1&ikMaxBuf=3600&ikMinBuf=2900&ikHost=ws&ikNetOp=01111&ikSlowRate=0.9&wsSecret=3fe965d9a429fad54832b7738c22e8e0&wsABStime=69ee10fa
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://q7inerkspw.sanzujian.com/7701/live/images/1255ec3039814e24e09662f30505bc07" group-title="Undefined",嘻哈
-http://lanfhllcjoahohadmcld.xinzhitushu.xyz/live/cx_382676.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/e92052b9e7d9569689b46ee616c4b7ab" group-title="Undefined",是你的柒柒
-http://lakjzhbenth1.xinzhitushu.xyz/live/cx_379255.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/3f2cae3b03070f4473940689b873ba99" group-title="Undefined",娘子
-http://bo.xn--4oqz1d.com/live/cx_16517.flv
+"#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="http://img.ikstatic.cn/MTc3MjE3NDUxNDcxNyM0ODAjanBn.jpg" group-title="Undefined",拾肆
+http://live-pull-zego.ikstatic.cn/inkemain/1777080529141572.flv?stream_id=1777080529141572&stream_type=zego&codecInfo=8192&ikFastRate=1.1&ikMaxBuf=3600&ikMinBuf=2900&ikHost=ws&ikNetOp=01111&ikSlowRate=0.9&wsSecret=d702ad531595d7908d664f9ae201dcb6&wsABStime=69ed6a51
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/cf954c60397e5fcf1bbf413cc771353e" group-title="Undefined",魅，儿
 http://lamansupasje.abrillantlee.top/live/cx_385633.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/228b1a107797f24c2d4dcdf406d10940" group-title="Undefined",三岁小葵
-http://labhsonhfjfhong.banmabh.xyz/live/cx_383044.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/762b3a4156806bd84b9bf9b2a8cb1136" group-title="Undefined",大幂幂呀
-http://starwellshuper1la.jinkangyl.com/live/cx_385415.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/d5ac1fad282ea4c0e7e9d505dc07e14e" group-title="Undefined",要七七
-http://zuenatooipswela.sqfkkj.top/live/cx_375628.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/19741d132f5da2779800cfff31a0e228" group-title="Undefined",刺人玫瑰
-http://lashfoaw064.abrillantlee.top/live/cx_385309.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/fc918670030be4fde575266071762646" group-title="Undefined",赵格格绿播
-http://bo.xn--3oq689c.com/live/cx_13228.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/33d6529bae52925421dee59b78e68b66" group-title="Undefined",茂密的小森林
-http://1lladhaepwwsvi.sqfkkj.top/live/cx_380333.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/443db9c1b23f5e52f01d14905a793dcd" group-title="Undefined",锦鲤甜妹
-http://lasywepoinetas1.jinkangyl.com/live/cx_384917.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/df598d2eb6f846b6d85c284eda82b09c" group-title="Undefined",大白兔奶糖
-http://lashfoaw064.abrillantlee.top/live/cx_384721.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/223ed58ed557ed629a4a6b21838b8a43" group-title="Undefined",小太阳呀
-http://lakjzhbenth1.xinzhitushu.xyz/live/cx_379615.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/a67ff0623d2760d9493e216373265e47" group-title="Undefined",国产古装三级片@
-http://7707bo.trustdeveloppment.com/live/cx_15642.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/77778e708030aa91237adb520b8b3af0" group-title="Undefined",淡颜
-http://osueaetkala1.yueyongli.top/live/cx_385214.flv
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/8bddd8c6ddef66f99deb6cf9c6399c2b" group-title="Undefined",缅北之猪仔@
 http://7707bo.trustdeveloppment.com/live/cx_15601.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/220faf90fbbafbec5b2246460d2b0751" group-title="Undefined",豆豆甜
-http://7707bo.youzhongyouzai.com/live/cx_9747.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/f4f8af668718922e05e1eeb641c24beb" group-title="Undefined",咕噜泡
-http://bo.xn--tcwu45i.com/live/cx_16596.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://q7inerkspw.sanzujian.com/7701/live/images/a202fa92ffd7946fb518116ab5bce5ad" group-title="Undefined",雅柔
-http://laoisbfhshakmahs.banmabh.xyz/live/cx_385713.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/0a8f08e02b8ac28792e624361e9fddd3" group-title="Undefined",风吹麦浪
-http://1laeiujwoq.yueyongli.top/live/cx_371125.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/a73a1d7ddae0d33a3617667374ecb108" group-title="Undefined",淼淼ck
-http://bo.xn--i6zy51c.com/live/cx_14032.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/8bf69e90df3a3ea4d9e625dddf6493a0" group-title="Undefined",小萌萌416
-http://labhsonhfjfhong.banmabh.xyz/live/cx_378816.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/2d4a5486382f314784ce96bf908473ff" group-title="Undefined",好运姐
-http://bo.xn--3oq689c.com/live/cx_16256.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/bc6e77d4edf28de9535277ff9b188839" group-title="Undefined",七萌萌咋
-http://lakjzhbenth1.xinzhitushu.xyz/live/cx_380347.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/fbe77697feba565f1afe5ae57c0e20b7" group-title="Undefined",思甜吖
-http://starwellshuper1la.jinkangyl.com/live/cx_375259.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/b7ab210a60939c7ee0e378e4fafd5ee8" group-title="Undefined",大宝宝姐
-http://lasehbehqr.sqfkkj.top/live/cx_370617.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/31b4ca96ba8f6bd42b0bb4ffdab39077" group-title="Undefined",小可爱c
-http://7707bo.youzhongyouzai.com/live/cx_15110.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/dde36edaa990ed6cae4760136edf6bb5" group-title="Undefined",屁墩墩
-http://bo.xn--tcwu45i.com/live/cx_13460.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/ec8cde479c166c2a1402a1b0225f1fcd" group-title="Undefined",原味奶茶
-http://1lladhaepwwsvi.sqfkkj.top/live/cx_372584.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/1f55e88a41efdbf6173209a4cf5e6b04" group-title="Undefined",金灿灿
-http://joakerwununql1.jinkangyl.com/live/cx_379024.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/945335e22fdb751d3241d6151d1821a3" group-title="Undefined",北栀
-http://lasywepoinetas1.jinkangyl.com/live/cx_361503.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/d946a6b1687fe070b88c0728e3e449f5" group-title="Undefined",Baby媛媛%5E%5E
-http://lanfhllcjoahohadmcld.xinzhitushu.xyz/live/cx_364161.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://81skehtmzwe.jtnc123.com/7701/live/images/6aae716fe52a1d56a7adf3a389f96ac2" group-title="Undefined",姐姐湿了
-http://lasuimakertname.abrillantlee.top/live/cx_383947.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/b950c5ab86f930527051fd51b34c9585" group-title="Undefined",思小妤
-http://laasdhasdhojs.banmabh.xyz/live/cx_384348.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/2edc2641449090a6a9a080f7bd88b251" group-title="Undefined",么么
-http://bo.xn--tcwu45i.com/live/cx_15415.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/1ab12376d91c113b2774ad2273d4be0a" group-title="Undefined",千惠
-http://7707bo.youzhongyouzai.com/live/cx_16156.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/f7cfe0c1824226b6d325766a142a864c" group-title="Undefined",姐姐。
-http://bo.xn--zwtw53a.com/live/cx_16477.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/5d85f76920a9872a066381b3b48953d8" group-title="Undefined",海澄
-http://bo.xn--zwtw53a.com/live/cx_15225.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/ca9e270cddaaf247bf19454b32c78f81" group-title="Undefined",轩宝
-http://bo.xn--i6zy51c.com/live/cx_11284.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/8b6f065c51f3271132787d40bea1ef3a" group-title="Undefined",蛋卷
-http://laasdhasdhojs.banmabh.xyz/live/cx_373355.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/56693aa7873e112e62e0f89781cfdf25" group-title="Undefined",小锦梨
-http://joakerwununql1.jinkangyl.com/live/cx_385196.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/73dd2e99ba2dd6f8a1a8fc87380a052a" group-title="Undefined",玥贝
-http://bo.xn--4oqz1d.com/live/cx_14223.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/cc7e281fab8bb4feefe21e88aa873fb7" group-title="Undefined",诗诗吖
-http://1124bo.ydftlkd.com/live/cx_7584.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/2e19233b0f61d588cbf1b94604aa1af7" group-title="Undefined",小柔柔吖
-http://lakjzhbenth1.xinzhitushu.xyz/live/cx_380748.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/5319bbab226fadcca803c0f14b87e924" group-title="Undefined",悠悠～～
-http://zuenatooipswela.sqfkkj.top/live/cx_376502.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://q7inerkspw.sanzujian.com/7701/live/images/51144d36bdaa862abbe57fdc5a4be0d8" group-title="Undefined",湿姐水多多
-http://laasdhasdhojs.banmabh.xyz/live/cx_385707.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/6f40bfdfb460269372fc9e186209415b" group-title="Undefined",小花来了
-http://huerbetlwla.yueyongli.top/live/cx_381248.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/58e33ecba1a9a91500f7e7ceb2f59e14" group-title="Undefined",李佳佳4
-http://osueaetkala1.yueyongli.top/live/cx_384478.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/756bdb3c1c33b2e3955ded0bd38599f8" group-title="Undefined",小星i
-http://osueaetkala1.yueyongli.top/live/cx_384787.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/be50bd71b405b1b465db795246835464" group-title="Undefined",招财猫y
-http://bo.xn--tcwu45i.com/live/cx_15692.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/da7082f536041a1ed4dd600b08c2f85e" group-title="Undefined",思甜甜
-http://lasehbehqr.sqfkkj.top/live/cx_378393.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/28181c04bb67f8cc6733bbf7649e42d8" group-title="Undefined",笑宝宝
-http://bo.xn--4oqz1d.com/live/cx_16330.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/67b05c62084c78cad5caa485fac7b7fd" group-title="Undefined",亲亲丽丽
-http://7707bo.youzhongyouzai.com/live/cx_15527.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/07004fede483c89b6933d2ea4a5ca7a6" group-title="Undefined",禾茉
-http://lasuimakertname.abrillantlee.top/live/cx_367061.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/a6fde10cc6e681c15ad8de28c11152ed" group-title="Undefined",单亲妈妈户外
-http://huerbetlwla.yueyongli.top/live/cx_376546.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/1bad170063e1b8c907ac1a2e1298f8aa" group-title="Undefined",精彩大秀@
-http://bo.xn--tcwu45i.com/live/cx_15861.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/fdb58351db6ad3b0ad1466f944f3e7a1" group-title="Undefined",清菀
-http://bo.xn--i6zy51c.com/live/cx_12997.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/14b79286e3c56be5788a1dd04906b79a" group-title="Undefined",淼琳新人绿播
-http://1124bo.ydftlkd.com/live/cx_15116.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/d202be5ac9fccbe56e69ae211563e985" group-title="Undefined",朵朵呀
-http://bo.xn--i6zy51c.com/live/cx_14895.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/d257dca3348eee3cfa05f4b9cbf2348e" group-title="Undefined",精彩剧情@
-http://bo.xn--4oqz1d.com/live/cx_16437.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/65b2aa8db24eb79856d5205d8f704b89" group-title="Undefined",颜如玉
-http://bo.xn--4oqz1d.com/live/cx_16516.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/2b7f987fbd67b8447c7fc5e588cc1a0c" group-title="Undefined",梦奇欢迎你
-http://bo.xn--3oq689c.com/live/cx_11042.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/b3dca9d1cae1342c4162e64b9605b2f2" group-title="Undefined",奶油布丁
-http://1124bo.ydftlkd.com/live/cx_16367.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/6036d1cb4b3702df7f75af64b21a46c9" group-title="Undefined",我草莓招了
-http://bo.xn--i6zy51c.com/live/cx_7191.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/c00d9b2cc7a390330e93955e37e2d658" group-title="Undefined",软萌
-http://bo.xn--tcwu45i.com/live/cx_16295.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/02bf0a88f55bb314754340dc86aab9ed" group-title="Undefined",柒萌妹子
-http://1124bo.ydftlkd.com/live/cx_9712.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/0031c7e876df83ca17942c8822529fc5" group-title="Undefined",清欢
-http://bo.xn--tcwu45i.com/live/cx_16155.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/f350f3748f25f78d22f0849d1c0f1e16" group-title="Undefined",凶凶的
-http://7707bo.trustdeveloppment.com/live/cx_4003.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/230e7a269f882d9e19b275b454a87787" group-title="Undefined",嘉宁
-http://laoisbfhshakmahs.banmabh.xyz/live/cx_385600.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/01f8027947c4ba9db18391730caabc60" group-title="Undefined",雅风
-http://lasuimakertname.abrillantlee.top/live/cx_369839.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/ad2470822af2f558073c46ecef12286f" group-title="Undefined",AD钙奶a
-http://7707bo.trustdeveloppment.com/live/cx_15953.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/11a219b16bd3885e8a985b7e092e204a" group-title="Undefined",旺旺小仙
-http://lasuimakertname.abrillantlee.top/live/cx_375169.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/357836236f3322ff1fec0875da5be583" group-title="Undefined",叫床我是专业的@
-http://7707bo.trustdeveloppment.com/live/cx_15601.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/33d6529bae52925421dee59b78e68b66" group-title="Undefined",茂密的小森林
+http://1lladhaepwwsvi.sqfkkj.top/live/cx_380333.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/c74c99eb988e8858d0526b6e7dc4ff71" group-title="Undefined",寂寞妹妹
+http://bo.xn--zwtw53a.com/live/cx_600.flv
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://q7inerkspw.sanzujian.com/7701/live/images/06eb7c44b9c55b8eb9a165d2420af571" group-title="Undefined",嗲嗲猫
 http://lashfoaw064.abrillantlee.top/live/cx_381691.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/a616ad5c68a4de1887fc382afff1153e" group-title="Undefined",你的小小乖乖
-http://lamansupasje.abrillantlee.top/live/cx_385493.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/83bb6c7ac95cff2d2c68db7582253961" group-title="Undefined",百变小迪
-http://bo.xn--3oq689c.com/live/cx_5868.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/26693842f9c07ccb96c6013dbb83ccaf" group-title="Undefined",幸运果儿
-http://bo.xn--3oq689c.com/live/cx_118.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/11a219b16bd3885e8a985b7e092e204a" group-title="Undefined",旺旺小仙
+http://lasuimakertname.abrillantlee.top/live/cx_375169.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/2edc2641449090a6a9a080f7bd88b251" group-title="Undefined",么么
+http://bo.xn--tcwu45i.com/live/cx_15415.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/ca9e270cddaaf247bf19454b32c78f81" group-title="Undefined",轩宝
+http://bo.xn--i6zy51c.com/live/cx_11284.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/b3dca9d1cae1342c4162e64b9605b2f2" group-title="Undefined",奶油布丁
+http://1124bo.ydftlkd.com/live/cx_16367.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/8b6f065c51f3271132787d40bea1ef3a" group-title="Undefined",蛋卷
+http://laasdhasdhojs.banmabh.xyz/live/cx_373355.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://81skehtmzwe.jtnc123.com/7701/live/images/6aae716fe52a1d56a7adf3a389f96ac2" group-title="Undefined",姐姐湿了
+http://lasuimakertname.abrillantlee.top/live/cx_383947.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/443db9c1b23f5e52f01d14905a793dcd" group-title="Undefined",锦鲤甜妹
+http://lasywepoinetas1.jinkangyl.com/live/cx_384917.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/fc918670030be4fde575266071762646" group-title="Undefined",赵格格绿播
+http://bo.xn--3oq689c.com/live/cx_13228.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/31b4ca96ba8f6bd42b0bb4ffdab39077" group-title="Undefined",小可爱c
+http://7707bo.youzhongyouzai.com/live/cx_15110.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/da7082f536041a1ed4dd600b08c2f85e" group-title="Undefined",思甜甜
+http://lasehbehqr.sqfkkj.top/live/cx_378393.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/6036d1cb4b3702df7f75af64b21a46c9" group-title="Undefined",我草莓招了
+http://bo.xn--i6zy51c.com/live/cx_7191.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/cc7e281fab8bb4feefe21e88aa873fb7" group-title="Undefined",诗诗吖
+http://1124bo.ydftlkd.com/live/cx_7584.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/bc6e77d4edf28de9535277ff9b188839" group-title="Undefined",七萌萌咋
+http://lakjzhbenth1.xinzhitushu.xyz/live/cx_380347.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/07004fede483c89b6933d2ea4a5ca7a6" group-title="Undefined",禾茉
+http://lasuimakertname.abrillantlee.top/live/cx_367061.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/2e19233b0f61d588cbf1b94604aa1af7" group-title="Undefined",小柔柔吖
+http://lakjzhbenth1.xinzhitushu.xyz/live/cx_380748.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://81skehtmzwe.jtnc123.com/7701/live/images/dc3ddbc6b5dfcfcfb2328acef00456c3" group-title="Undefined",小B
+http://lanfhllcjoahohadmcld.xinzhitushu.xyz/live/cx_384209.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/d52492a480319ce5d40e001496742f80" group-title="Undefined",迪丽美娜
+http://bo.xn--4oqz1d.com/live/cx_16507.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/65a383b447425354eb5a3afc8e7b3645" group-title="Undefined",肉肉超肉
+http://1124bo.ydftlkd.com/live/cx_108.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/77778e708030aa91237adb520b8b3af0" group-title="Undefined",淡颜
+http://osueaetkala1.yueyongli.top/live/cx_385214.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/1ab12376d91c113b2774ad2273d4be0a" group-title="Undefined",千惠
+http://7707bo.youzhongyouzai.com/live/cx_16156.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/c84a0edbc2fd583c4586defa7c8f18e9" group-title="Undefined",奶芙泡
+http://bo.xn--tcwu45i.com/live/cx_14914.flv
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/dd5b9d60a12cc2c8899c560274ce5f39" group-title="Undefined",玥玥吖
 http://7707bo.youzhongyouzai.com/live/cx_11275.flv
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/d99b40c0f68db7dbd702f65ffb4a7f7a" group-title="Undefined",小酥妻
 http://bo.xn--zwtw53a.com/live/cx_14595.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/2d6a9793b895bc468dc7b1deb3b5a535" group-title="Undefined",阮阮%20吖
-http://1laeiujwoq.yueyongli.top/live/cx_365291.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/228b1a107797f24c2d4dcdf406d10940" group-title="Undefined",三岁小葵
+http://labhsonhfjfhong.banmabh.xyz/live/cx_383044.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/a6fde10cc6e681c15ad8de28c11152ed" group-title="Undefined",单亲妈妈户外
+http://huerbetlwla.yueyongli.top/live/cx_376546.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/ec8cde479c166c2a1402a1b0225f1fcd" group-title="Undefined",原味奶茶
+http://1lladhaepwwsvi.sqfkkj.top/live/cx_372584.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/762b3a4156806bd84b9bf9b2a8cb1136" group-title="Undefined",大幂幂呀
+http://starwellshuper1la.jinkangyl.com/live/cx_385415.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/6f40bfdfb460269372fc9e186209415b" group-title="Undefined",小花来了
+http://huerbetlwla.yueyongli.top/live/cx_381248.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/01f8027947c4ba9db18391730caabc60" group-title="Undefined",雅风
+http://lasuimakertname.abrillantlee.top/live/cx_369839.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/fbe77697feba565f1afe5ae57c0e20b7" group-title="Undefined",思甜吖
+http://starwellshuper1la.jinkangyl.com/live/cx_375259.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/8bf69e90df3a3ea4d9e625dddf6493a0" group-title="Undefined",小萌萌416
+http://labhsonhfjfhong.banmabh.xyz/live/cx_378816.flv
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/7faf9d672912336df89c540ac79da55b" group-title="Undefined",傻宝宝
 http://lasehbehqr.sqfkkj.top/live/cx_385058.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/65a383b447425354eb5a3afc8e7b3645" group-title="Undefined",肉肉超肉
-http://1124bo.ydftlkd.com/live/cx_108.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://q7inerkspw.sanzujian.com/7701/live/images/1255ec3039814e24e09662f30505bc07" group-title="Undefined",嘻哈
+http://lanfhllcjoahohadmcld.xinzhitushu.xyz/live/cx_382676.flv
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/02283073b22e137904fed93a9f812622" group-title="Undefined",萌萌哒1
 http://labhsonhfjfhong.banmabh.xyz/live/cx_383716.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/d52492a480319ce5d40e001496742f80" group-title="Undefined",迪丽美娜
-http://bo.xn--4oqz1d.com/live/cx_16507.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/7af008098f13a19f0305dc7b536e91bc" group-title="Undefined",安静
+http://bo.xn--i6zy51c.com/live/cx_13475.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/ad2470822af2f558073c46ecef12286f" group-title="Undefined",AD钙奶a
+http://7707bo.trustdeveloppment.com/live/cx_15953.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/e92052b9e7d9569689b46ee616c4b7ab" group-title="Undefined",是你的柒柒
+http://lakjzhbenth1.xinzhitushu.xyz/live/cx_379255.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/26693842f9c07ccb96c6013dbb83ccaf" group-title="Undefined",幸运果儿
+http://bo.xn--3oq689c.com/live/cx_118.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/df598d2eb6f846b6d85c284eda82b09c" group-title="Undefined",大白兔奶糖
+http://lashfoaw064.abrillantlee.top/live/cx_384721.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/2b7f987fbd67b8447c7fc5e588cc1a0c" group-title="Undefined",梦奇欢迎你
+http://bo.xn--3oq689c.com/live/cx_11042.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/02bf0a88f55bb314754340dc86aab9ed" group-title="Undefined",柒萌妹子
+http://1124bo.ydftlkd.com/live/cx_9712.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/0031c7e876df83ca17942c8822529fc5" group-title="Undefined",清欢
+http://bo.xn--tcwu45i.com/live/cx_16155.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/4bdb0a4de3cf063acc8f87864eff41ad" group-title="Undefined",奈奈学妹
+http://bo.xn--tcwu45i.com/live/cx_15069.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/223ed58ed557ed629a4a6b21838b8a43" group-title="Undefined",小太阳呀
+http://lakjzhbenth1.xinzhitushu.xyz/live/cx_379615.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/b15aece0a90e2877ec012afda3c37764" group-title="Undefined",桃
+http://bo.xn--i6zy51c.com/live/cx_2474.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/2d6a9793b895bc468dc7b1deb3b5a535" group-title="Undefined",阮阮%20吖
+http://1laeiujwoq.yueyongli.top/live/cx_365291.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/4689f4f968167e4de190ba8367f73fee" group-title="Undefined",白桃
+http://joakerwununql1.jinkangyl.com/live/cx_383255.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/83bb6c7ac95cff2d2c68db7582253961" group-title="Undefined",百变小迪
+http://bo.xn--3oq689c.com/live/cx_5868.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/a67ff0623d2760d9493e216373265e47" group-title="Undefined",国产古装三级片@
+http://7707bo.trustdeveloppment.com/live/cx_15642.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/b950c5ab86f930527051fd51b34c9585" group-title="Undefined",思小妤
+http://laasdhasdhojs.banmabh.xyz/live/cx_384348.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/19741d132f5da2779800cfff31a0e228" group-title="Undefined",刺人玫瑰
+http://lashfoaw064.abrillantlee.top/live/cx_385309.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/58e33ecba1a9a91500f7e7ceb2f59e14" group-title="Undefined",李佳佳4
+http://osueaetkala1.yueyongli.top/live/cx_384478.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/d5ac1fad282ea4c0e7e9d505dc07e14e" group-title="Undefined",要七七
+http://zuenatooipswela.sqfkkj.top/live/cx_375628.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/5319bbab226fadcca803c0f14b87e924" group-title="Undefined",悠悠～～
+http://zuenatooipswela.sqfkkj.top/live/cx_376502.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/1f55e88a41efdbf6173209a4cf5e6b04" group-title="Undefined",金灿灿
+http://joakerwununql1.jinkangyl.com/live/cx_379024.flv
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/27bf272da01ad44caf05ee76a74fa6cb" group-title="Undefined",可可呀
 http://bo.xn--i6zy51c.com/live/cx_12364.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/73a3d770f1f83d8a560c88323805e576" group-title="Undefined",香飘飘奶茶
-http://lanfhllcjoahohadmcld.xinzhitushu.xyz/live/cx_385698.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/c84a0edbc2fd583c4586defa7c8f18e9" group-title="Undefined",奶芙泡
-http://bo.xn--tcwu45i.com/live/cx_14914.flv
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/2b681f5060c191fcb44778d741f64838" group-title="Undefined",椰椰子
 http://lamansupasje.abrillantlee.top/live/cx_385594.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/c74c99eb988e8858d0526b6e7dc4ff71" group-title="Undefined",寂寞妹妹
-http://bo.xn--zwtw53a.com/live/cx_600.flv
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="http://img.ikstatic.cn/MTc3MjE3NDUxNDcxNyM0ODAjanBn.jpg" group-title="Undefined",拾肆
-http://live-pull-zego.ikstatic.cn/inkemain/1777080529141572.flv?stream_id=1777080529141572&stream_type=zego&codecInfo=8192&ikFastRate=1.1&ikMaxBuf=3600&ikMinBuf=2900&ikHost=ws&ikNetOp=01111&ikSlowRate=0.9&wsSecret=d702ad531595d7908d664f9ae201dcb6&wsABStime=69ed6a51
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/a616ad5c68a4de1887fc382afff1153e" group-title="Undefined",你的小小乖乖
+http://lamansupasje.abrillantlee.top/live/cx_385493.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://q7inerkspw.sanzujian.com/7701/live/images/51144d36bdaa862abbe57fdc5a4be0d8" group-title="Undefined",湿姐水多多
+http://laasdhasdhojs.banmabh.xyz/live/cx_385707.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/73a3d770f1f83d8a560c88323805e576" group-title="Undefined",香飘飘奶茶
+http://lanfhllcjoahohadmcld.xinzhitushu.xyz/live/cx_385698.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/a73a1d7ddae0d33a3617667374ecb108" group-title="Undefined",淼淼ck
+http://bo.xn--i6zy51c.com/live/cx_14032.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/1bad170063e1b8c907ac1a2e1298f8aa" group-title="Undefined",精彩大秀@
+http://bo.xn--tcwu45i.com/live/cx_15861.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/756bdb3c1c33b2e3955ded0bd38599f8" group-title="Undefined",小星i
+http://osueaetkala1.yueyongli.top/live/cx_384787.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/230e7a269f882d9e19b275b454a87787" group-title="Undefined",嘉宁
+http://laoisbfhshakmahs.banmabh.xyz/live/cx_385600.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/3f2cae3b03070f4473940689b873ba99" group-title="Undefined",娘子
+http://bo.xn--4oqz1d.com/live/cx_16517.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/d257dca3348eee3cfa05f4b9cbf2348e" group-title="Undefined",精彩剧情@
+http://bo.xn--4oqz1d.com/live/cx_16437.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://q7inerkspw.sanzujian.com/7701/live/images/b0da688843090baf43a57bf6d2fb4f87" group-title="Undefined",早早晚晚啪啪啪
+http://laoisbfhshakmahs.banmabh.xyz/live/cx_383830.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/963c52c3f90ea33139f15dce805f3968" group-title="Undefined",奶兔叽
+http://starwellshuper1la.jinkangyl.com/live/cx_379565.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/cdaa0f7d874b2c8955e7f5bf19e22e25" group-title="Undefined",福崽崽
+http://laoisbfhshakmahs.banmabh.xyz/live/cx_365051.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/225f698c8a69fa16856dfe88128a603d" group-title="Undefined",猪猪55
+http://lasehbehqr.sqfkkj.top/live/cx_374370.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://chenouneot.vabvwg.com/7707/live/images/357836236f3322ff1fec0875da5be583" group-title="Undefined",叫床我是专业的@
+http://7707bo.trustdeveloppment.com/live/cx_15601.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/8f82c0691191c55fa75f3da598ef7125" group-title="Undefined",炭炭
+http://lasywepoinetas1.jinkangyl.com/live/cx_385521.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/eb55cab44d4338bed43f99dae104d966" group-title="Undefined",蜜桃姐姐呀
+http://lasehbehqr.sqfkkj.top/live/cx_385047.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/6b24957ef202fd2dfd2b9c650cdd9b0b" group-title="Undefined",十一呀
+http://lasywepoinetas1.jinkangyl.com/live/cx_372628.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://nfahcggfadfd1fnv.hypermn.com/7701/live/images/ec3ffb7735f50e277fbe4a96940b58d0" group-title="Undefined",花无缺5
+http://lakjzhbenth1.xinzhitushu.xyz/live/cx_378665.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/0899c46343bd0836b2e7ae02a9f0717c" group-title="Undefined",柒小九
+http://lakjzhbenth1.xinzhitushu.xyz/live/cx_382748.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://guaznetqfeg.sanzujian.com/7701/live/images/4599b6bf66f0760657e5c539d2281f36" group-title="Undefined",kio鱼
+http://lanfhllcjoahohadmcld.xinzhitushu.xyz/live/cx_369469.flv
