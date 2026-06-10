@@ -59,6 +59,10 @@ http://183.11.239.36:808/hls/47/index.m3u8
 http://36.32.174.67:60080/newlive/live/hls/49/live.m3u8
 #EXTINF:-1 tvg-name="青海卫视" tvg-id="148" tvg-logo="https://tb.zbds.top/logo/青海卫视.png" group-title="卫视频道", 青海卫视
 http://111.61.236.247:9081/hls/49/index.m3u8
+#EXTINF:-1 tvg-name="厦门卫视" tvg-id="11" tvg-logo="https://tb.zbds.top/logo/厦门卫视.png" group-title="卫视频道", 厦门卫视
+http://183.11.239.36:808/hls/17/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视" tvg-id="126" tvg-logo="https://tb.zbds.top/logo/山东卫视.png" group-title="卫视频道", 山东卫视
+http://182.150.23.74:808/hls/23/index.m3u8
 #EXTINF:-1 tvg-name="山西卫视" tvg-id="山西卫视" tvg-logo="https://tb.zbds.top/logo/山西卫视.png" group-title="卫视频道", 山西卫视
 http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" tvg-id="陕西卫视" tvg-logo="https://tb.zbds.top/logo/陕西卫视.png" group-title="卫视频道", 陕西卫视
@@ -91,10 +95,10 @@ https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 http://cssbyd.imwork.net:8082/hls/44/index.m3u8
 #EXTINF:-1 tvg-name="山东教育" tvg-id="山东教育" tvg-logo="https://tb.zbds.top/logo/山东教育.png" group-title="卫视频道", 山东教育
 https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
+#EXTINF:-1 tvg-name="人间卫视" tvg-id="人间卫视" tvg-logo="https://tb.zbds.top/logo/人间卫视.png" group-title="卫视频道", 人间卫视
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="3" tvg-logo="https://tb.zbds.top/logo/CHC家庭影院.png" group-title="电影频道", CHC家庭影院
 http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
-#EXTINF:-1 tvg-name="CHC电影" tvg-id="CHC电影" tvg-logo="https://tb.zbds.top/logo/CHC电影.png" group-title="电影频道", CHC电影
-http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="东阳影视生活" tvg-id="东阳影视生活" tvg-logo="https://tb.zbds.top/logo/东阳影视生活.png" group-title="电影频道", 东阳影视生活
 http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 #EXTINF:-1 tvg-name="倩女幽魂人间道" tvg-id="倩女幽魂人间道" tvg-logo="https://tb.zbds.top/logo/倩女幽魂人间道.png" group-title="电影频道", 倩女幽魂人间道
@@ -111,6 +115,8 @@ https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
 #EXTINF:-1 tvg-name="南国都市" tvg-id="南国都市" tvg-logo="https://tb.zbds.top/logo/南国都市.png" group-title="数字频道", 南国都市
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-id="11" tvg-logo="https://tb.zbds.top/logo/卡酷少儿.png" group-title="儿童频道", 卡酷少儿
+http://218.13.170.98:9901/tsfile/live/1021_1.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-id="42" tvg-logo="https://tb.zbds.top/logo/金鹰卡通.png" group-title="儿童频道", 金鹰卡通
 http://183.11.239.36:808/hls/69/index.m3u8
 #EXTINF:-1 tvg-name="广东少儿" tvg-id="1" tvg-logo="https://tb.zbds.top/logo/广东少儿.png" group-title="儿童频道", 广东少儿
@@ -303,6 +309,8 @@ http://stream5.jlntv.cn/wq/sd/live.m3u8
 http://live.iwcmt.cn:90/live/zhxw.m3u8
 #EXTINF:-1 tvg-name="河北农民" tvg-id="河北农民" tvg-logo="https://tb.zbds.top/logo/河北农民.png" group-title="地方频道", 河北农民
 https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
+#EXTINF:-1 tvg-name="河北都市" tvg-id="河北都市" tvg-logo="https://tb.zbds.top/logo/河北都市.png" group-title="地方频道", 河北都市
+https://radio.pull.hebtv.com/live/hebnczx.m3u8
 #EXTINF:-1 tvg-name="泗洪新闻综合" tvg-id="泗洪新闻综合" tvg-logo="https://tb.zbds.top/logo/泗洪新闻综合.png" group-title="地方频道", 泗洪新闻综合
 http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd#http://live1.habctv.com/ggpdsl/sd/live.m3u8
 #EXTINF:-1 tvg-name="泸县新闻综合" tvg-id="泸县新闻综合" tvg-logo="https://tb.zbds.top/logo/泸县新闻综合.png" group-title="地方频道", 泸县新闻综合
@@ -439,6 +447,8 @@ http://live.jinchuanrmt.com:90/live/zhxw.m3u8?zsicd
 http://183.64.174.171:40123/ch1.m3u8?zzhongqd
 #EXTINF:-1 tvg-name="长子综合" tvg-id="长子综合" tvg-logo="https://tb.zbds.top/logo/长子综合.png" group-title="地方频道", 长子综合
 https://www.wxhcgbds.com:8081/channelTv/WXTV_1.m3u8?zshanxd
+#EXTINF:-1 tvg-name="长影频道" tvg-id="长影频道" tvg-logo="https://tb.zbds.top/logo/长影频道.png" group-title="地方频道", 长影频道
+http://tpc.x3322.net:9901/tsfile/live/1010_1.m3u8
 #EXTINF:-1 tvg-name="长白山电视台" tvg-id="长白山电视台" tvg-logo="https://tb.zbds.top/logo/长白山电视台.png" group-title="地方频道", 长白山电视台
 http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild
 #EXTINF:-1 tvg-name="陇川综合" tvg-id="陇川综合" tvg-logo="https://tb.zbds.top/logo/陇川综合.png" group-title="地方频道", 陇川综合
