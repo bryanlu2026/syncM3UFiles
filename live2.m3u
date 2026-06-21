@@ -1,3 +1,0 @@
-#EXTM3U x-tvg-url=https://iptv-org.github.io/epg/guides/ae-ar/osn.com.epg.xml
-#EXTINF:0,1, Stream 
-rtmp://hongyangz.xn--fiq64bk2i52brzu7srde4a640a0sk.com/live/21612_1781940497 app=live tcUrl=rtmp://hongyangz.xn--fiq64bk2i52brzu7srde4a640a0sk.com/live/21612_1781940497 conn= live=1
