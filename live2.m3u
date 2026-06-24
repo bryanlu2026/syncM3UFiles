@@ -59,8 +59,14 @@ rtmp://lmyegm6vdrhivo8r.0csp7bqtxeaj.sourcelandchina.com/live/1199682503?token=8
 #EXTINF:0,1, 645559773 
 rtmp://yru9f8dv3ygm10z6.0csp7bqtxeaj.sourcelandchina.com/live/645559773?token=d88ff3f4524203588c433e1156a17c2a&t=1782395673&liteavToken=4e601426-b8d0-49ff-8d10-a424c093c8»b app=live tcUrl=rtmp://yru9f8dv3ygm10z6.0csp7bqtxeaj.sourcelandchina.com/live/645559773?token=d88ff3f4524203588c433e1156a17c2a&t=1782395673&liteavToken=4e601426-b8d0-49ff-8d10-a424c093c8»b conn= live=1
 #EXTM3U x-tvg-url=https://iptv-org.github.io/epg/guides/ae-ar/osn.com.epg.xml
+#EXTINF:0,1, 380131286 
+rtmp://2nfwrjmz40wzr6rw.7kv5kqq7k77g.hebeisaixin.com/live/380131286?token=a377378f90b76ae1078baa2176782e85&t=1782395859&liteavToken=5c17d37e-7f72-49bc-93a5-f4c0d4f635»1 app=live tcUrl=rtmp://2nfwrjmz40wzr6rw.7kv5kqq7k77g.hebeisaixin.com/live/380131286?token=a377378f90b76ae1078baa2176782e85&t=1782395859&liteavToken=5c17d37e-7f72-49bc-93a5-f4c0d4f635»1 conn= live=1
+#EXTM3U x-tvg-url=https://iptv-org.github.io/epg/guides/ae-ar/osn.com.epg.xml
 #EXTINF:0,1, 767803808 
 rtmp://rrow3dyilcaunnzf.7kv5kqq7k77g.hebeisaixin.com/live/767803808?token=113e02d619af5541c56ac18fda681ca8&t=1782395671&liteavToken=47b1f28f-3187-4cbf-bc63-9f7e560de0»c app=live tcUrl=rtmp://rrow3dyilcaunnzf.7kv5kqq7k77g.hebeisaixin.com/live/767803808?token=113e02d619af5541c56ac18fda681ca8&t=1782395671&liteavToken=47b1f28f-3187-4cbf-bc63-9f7e560de0»c conn= live=1
+#EXTM3U x-tvg-url=https://iptv-org.github.io/epg/guides/ae-ar/osn.com.epg.xml
+#EXTINF:0,1, 1999786852 
+rtmp://yggvllqezec0ijnx.7kv5kqq7k77g.hebeisaixin.com/live/1999786852?token=e2535284a7c6ff72cd0df3d91d3e6b55&t=1782395861&liteavToken=256320ac-29b2-4147-8989-73efe75d2»6b app=live tcUrl=rtmp://yggvllqezec0ijnx.7kv5kqq7k77g.hebeisaixin.com/live/1999786852?token=e2535284a7c6ff72cd0df3d91d3e6b55&t=1782395861&liteavToken=256320ac-29b2-4147-8989-73efe75d2»6b conn= live=1
 #EXTM3U x-tvg-url=https://iptv-org.github.io/epg/guides/ae-ar/osn.com.epg.xml
 #EXTINF:0,1, 2069091516 
 rtmp://gknl96ln2gx61m35.7kv5kqq7k77g.hebeisaixin.com/live/2069091516?token=19e4917cc2f6c425c0ba53adb9af2947&t=1782395668&liteavToken=d426b7b5-ec41-4320-8485-7ce7d735d»10 app=live tcUrl=rtmp://gknl96ln2gx61m35.7kv5kqq7k77g.hebeisaixin.com/live/2069091516?token=19e4917cc2f6c425c0ba53adb9af2947&t=1782395668&liteavToken=d426b7b5-ec41-4320-8485-7ce7d735d»10 conn= live=1
