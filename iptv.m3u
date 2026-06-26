@@ -9,6 +9,8 @@ http://112.46.85.60:8009/hls/504/index.m3u8
 http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-id="26" tvg-logo="https://tb.zbds.top/logo/CCTV15.png" group-title="央视频道", CCTV15
 http://112.27.235.94:8000/hls/16/index.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-id="14" tvg-logo="https://tb.zbds.top/logo/CCTV16.png" group-title="央视频道", CCTV16
+http://183.11.239.36:808/hls/169/index.m3u8
 #EXTINF:-1 tvg-name="CCTV20241" tvg-id="CCTV20241" tvg-logo="https://tb.zbds.top/logo/CCTV20241.png" group-title="央视频道", CCTV20241
 https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" tvg-id="1" tvg-logo="https://tb.zbds.top/logo/兵团卫视.png" group-title="卫视频道", 兵团卫视
@@ -25,6 +27,8 @@ http://112.27.235.94:8000/hls/39/index.m3u8
 http://182.150.23.74:808/hls/28/index.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-id="湖南卫视" tvg-logo="https://tb.zbds.top/logo/湖南卫视.png" group-title="卫视频道", 湖南卫视
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+#EXTINF:-1 tvg-name="吉林卫视" tvg-id="25" tvg-logo="https://tb.zbds.top/logo/吉林卫视.png" group-title="卫视频道", 吉林卫视
+http://183.11.239.36:808/hls/10/index.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-id="27" tvg-logo="https://tb.zbds.top/logo/江苏卫视.png" group-title="卫视频道", 江苏卫视
 http://218.13.170.98:9901/tsfile/live/1003_1.m3u8
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-id="21" tvg-logo="https://tb.zbds.top/logo/辽宁卫视.png" group-title="卫视频道", 辽宁卫视
@@ -39,8 +43,6 @@ http://cssbyd.imwork.net:8082/hls/46/index.m3u8
 https://srs.iyb983.cn:443/video/CYS/index.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-id="浙江卫视" tvg-logo="https://tb.zbds.top/logo/浙江卫视.png" group-title="卫视频道", 浙江卫视
 http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
-#EXTINF:-1 tvg-name="重庆卫视" tvg-id="25" tvg-logo="https://tb.zbds.top/logo/重庆卫视.png" group-title="卫视频道", 重庆卫视
-http://112.27.235.94:8000/hls/36/index.m3u8
 #EXTINF:-1 tvg-name="安多卫视" tvg-id="安多卫视" tvg-logo="https://tb.zbds.top/logo/安多卫视.png" group-title="卫视频道", 安多卫视
 https://liveout.xntv.tv/a65jur/96iln2.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-id="27" tvg-logo="https://tb.zbds.top/logo/黑龙江卫视.png" group-title="卫视频道", 黑龙江卫视
@@ -233,8 +235,6 @@ http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
 https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=41543190cdf375f1c73207222bb96542&wsTime=1769313549
 #EXTINF:-1 tvg-name="武义新闻综合" tvg-id="武义新闻综合" tvg-logo="https://tb.zbds.top/logo/武义新闻综合.png" group-title="地方频道", 武义新闻综合
 http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
-#EXTINF:-1 tvg-name="武进生活" tvg-id="武进生活" tvg-logo="https://tb.zbds.top/logo/武进生活.png" group-title="地方频道", 武进生活
-http://live.wjyanghu.com/live/CH2.m3u8
 #EXTINF:-1 tvg-name="永嘉新闻综合" tvg-id="永嘉新闻综合" tvg-logo="https://tb.zbds.top/logo/永嘉新闻综合.png" group-title="地方频道", 永嘉新闻综合
 http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8
 #EXTINF:-1 tvg-name="永城综合" tvg-id="永城综合" tvg-logo="https://tb.zbds.top/logo/永城综合.png" group-title="地方频道", 永城综合
@@ -473,5 +473,3 @@ https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d2454bbb542d4613a9
 http://stream8.jlntv.cn/ljtv/sd/live.m3u8?zjild
 #EXTINF:-1 tvg-name="安徽综艺体育" tvg-id="安徽综艺体育" tvg-logo="https://tb.zbds.top/logo/安徽综艺体育.png" group-title="体育频道", 安徽综艺体育
 http://112.27.235.94:8000/hls/25/index.m3u8
-#EXTINF:-1 tvg-name="音乐欣赏" tvg-id="音乐欣赏" tvg-logo="https://tb.zbds.top/logo/音乐欣赏.png" group-title="音乐频道", 音乐欣赏
-http://61.221.215.25:8800/hls/49/index.m3u8
