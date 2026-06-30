@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-id="CCTV1" tvg-logo="https://tb.zbds.top/logo/CCTV1.png" group-title="央视频道", CCTV1
 http://112.27.235.94:8000/hls/1/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-id="203" tvg-logo="https://tb.zbds.top/logo/CCTV5.png" group-title="央视频道", CCTV5
+http://112.46.85.60:8009/hls/503/index.m3u8
 #EXTINF:-1 tvg-name="CCTV7" tvg-id="180" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视频道", CCTV7
 http://112.46.85.60:8009/hls/504/index.m3u8
 #EXTINF:-1 tvg-name="CCTV12" tvg-id="174" tvg-logo="https://tb.zbds.top/logo/CCTV12.png" group-title="央视频道", CCTV12
@@ -287,10 +289,6 @@ http://stream5.jlntv.cn/wq/sd/live.m3u8
 https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
 #EXTINF:-1 tvg-name="河北都市" tvg-id="河北都市" tvg-logo="https://tb.zbds.top/logo/河北都市.png" group-title="地方频道", 河北都市
 https://radio.pull.hebtv.com/live/hebnczx.m3u8
-#EXTINF:-1 tvg-name="河源公共" tvg-id="河源公共" tvg-logo="https://tb.zbds.top/logo/河源公共.png" group-title="地方频道", 河源公共
-http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-#EXTINF:-1 tvg-name="河源综合" tvg-id="河源综合" tvg-logo="https://tb.zbds.top/logo/河源综合.png" group-title="地方频道", 河源综合
-http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 #EXTINF:-1 tvg-name="泗洪新闻综合" tvg-id="泗洪新闻综合" tvg-logo="https://tb.zbds.top/logo/泗洪新闻综合.png" group-title="地方频道", 泗洪新闻综合
 http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd#http://live1.habctv.com/ggpdsl/sd/live.m3u8
 #EXTINF:-1 tvg-name="泸县新闻综合" tvg-id="泸县新闻综合" tvg-logo="https://tb.zbds.top/logo/泸县新闻综合.png" group-title="地方频道", 泸县新闻综合
@@ -411,6 +409,8 @@ http://live.jinchuanrmt.com:90/live/zhxw.m3u8?zsicd
 http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 #EXTINF:-1 tvg-name="镇江新闻综合" tvg-id="镇江新闻综合" tvg-logo="https://tb.zbds.top/logo/镇江新闻综合.png" group-title="地方频道", 镇江新闻综合
 http://cm-wshls.homecdn.com/live/2aa50.m3u8
+#EXTINF:-1 tvg-name="长子综合" tvg-id="长子综合" tvg-logo="https://tb.zbds.top/logo/长子综合.png" group-title="地方频道", 长子综合
+https://www.wxhcgbds.com:8081/channelTv/WXTV_1.m3u8?zshanxd
 #EXTINF:-1 tvg-name="长影频道" tvg-id="长影频道" tvg-logo="https://tb.zbds.top/logo/长影频道.png" group-title="地方频道", 长影频道
 http://tpc.x3322.net:9901/tsfile/live/1010_1.m3u8
 #EXTINF:-1 tvg-name="长白山电视台" tvg-id="长白山电视台" tvg-logo="https://tb.zbds.top/logo/长白山电视台.png" group-title="地方频道", 长白山电视台
@@ -451,8 +451,6 @@ https://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8?zxinjd
 http://stream5.jlntv.cn/sl/sd/live.m3u8?zjild
 #EXTINF:-1 tvg-name="地理中国" tvg-id="地理中国" tvg-logo="https://tb.zbds.top/logo/地理中国.png" group-title="纪录频道", 地理中国
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c6baf6f74bb944aeacee1065ea72c798/1200.m3u8
-#EXTINF:-1 tvg-name="奎屯汉语" tvg-id="奎屯汉语" tvg-logo="https://tb.zbds.top/logo/奎屯汉语.png" group-title="纪录频道", 奎屯汉语
-http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd
 #EXTINF:-1 tvg-name="柳河" tvg-id="柳河" tvg-logo="https://tb.zbds.top/logo/柳河.png" group-title="纪录频道", 柳河
 http://stream5.jlntv.cn/lh/sd/live.m3u8?zjild
 #EXTINF:-1 tvg-name="桦甸" tvg-id="桦甸" tvg-logo="https://tb.zbds.top/logo/桦甸.png" group-title="纪录频道", 桦甸
