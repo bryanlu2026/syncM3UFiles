@@ -1,14 +1,10 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ae-ar/osn.com.epg.xml
 "#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="http://img.ikstatic.cn/MTc4MjkyMTU0MTQ5MSM4MjAjanBn.jpg" group-title="Undefined",小度
 http://live-pull-zego.ikstatic.cn/inkemain/1783708942384923.flv?stream_id=1783708942384923&stream_type=zego&codecInfo=8192&ikFastRate=1.1&ikMaxBuf=3600&ikMinBuf=2900&ikHost=ws&ikSlowRate=0.9&wsSecret=ef54691f3c870d7b72d1ae1ecb3830ea&wsABStime=6a528e8e
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="http://img.ikstatic.cn/MTc3NTMwNTQ4OTY0MSM5MTAjanBn.jpg" group-title="Undefined",P.P
-http://live-pull-zego.ikstatic.cn/inkemain/1783697711617708.flv?stream_id=1783697711617708&stream_type=zego&codecInfo=8192&ikFastRate=1.1&ikMaxBuf=3600&ikMinBuf=2900&ikHost=ws&ikSlowRate=0.9&wsSecret=0ff18230d3a1f54514fa714b58c6d03a&wsABStime=6a5262af
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="http://img.ikstatic.cn/MTc3MjQ4NDA1NDQ1MyMzNjAjanBn.jpg" group-title="Undefined",%3F%3F%3F%3F岛谷瞳%3F%3F%3F
 http://live-pull-zego.ikstatic.cn/inkemain/1783716019323172.flv?stream_id=1783716019323172&stream_type=zego&codecInfo=8192&ikFastRate=1.1&ikMaxBuf=3600&ikMinBuf=2900&ikHost=ws&ikSlowRate=0.9&wsSecret=11d6b82fca50d1e2ef93bf3a662cf92d&wsABStime=6a52aa33
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="http://vnnhazkjjfmvjfsr.quanzhanpm.com/7707/live/images/97418c0dc8ff0afebb0e31d9686d29e2" group-title="Undefined",美加墨世界杯
 http://77bo.xn--kcrp02i.com/live/cx_12079.flv?wsSecret=10424969f6246edd72d149ee6263b495&wsTime=1783698250
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://euneqwoezet.zztcaigou.com/7701/live/images/6ef3693c8b91c92a43a42944e4a4b047" group-title="Undefined",小薇薇
-http://likeahjadksetla.abrillantlee.top/live/cx_386718.flv?wsSecret=0a4008f4c0ce9bc149a4fec7ac644b1e&wsTime=1783717039
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://zjkkdkdkd06.oss-ap-northeast-2.aliyuncs.com/zxcvb/1.jpg" group-title="Undefined",甜心格格
 https://zjkkdkdkd06.oss-ap-northeast-2.aliyuncs.com/zxcvb/1.flv
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://euneqwoezet.zztcaigou.com/7701/live/images/579913c79b75f840898a1fdd94891a22" group-title="Undefined",可可呀
@@ -19,8 +15,6 @@ http://77bo.xn--fhqv92p.com/live/cx_24.flv?wsSecret=6ec8de27d6ed83481e0e021b9989
 http://77bo.xn--vuqy52q.com/live/cx_11042.flv?wsSecret=a1a92ffebbc111efb8804838bbe1fc3e&wsTime=1783713519
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://euneqwoezet.zztcaigou.com/7701/live/images/5ebc39f1615ef08d2217ba91765453f4" group-title="Undefined",小爽
 http://likeahjadksetla.abrillantlee.top/live/cx_374539.flv?wsSecret=a8d939ee12f06d5d6840d09625db6330&wsTime=1783702950
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://euneqwoezet.zztcaigou.com/7701/live/images/6c6d29ac36c4f307620336bff7dfa582" group-title="Undefined",贝贝
-http://xcrmumeetla.abrillantlee.top/live/cx_386683.flv?wsSecret=17be0d6663fd297b6ac63dec7823093e&wsTime=1783718315
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="http://vnnhazkjjfmvjfsr.quanzhanpm.com/7707/live/images/c7bc8c97d9f9777e8d15e410d4c987ca" group-title="Undefined",未成年@
 http://77bo.xn--fhqv92p.com/live/cx_28.flv?wsSecret=6d89b87746fb02d70e60554b09ecce02&wsTime=1783611906
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://euneqwoezet.zztcaigou.com/7701/live/images/a01207d710988e23f37c5e4aa2bce20f" group-title="Undefined",小萝莉
@@ -29,8 +23,6 @@ http://xcrmumeetla.abrillantlee.top/live/cx_386789.flv?wsSecret=bbb41a25220d1df6
 http://la193sahrigxt.sqfkkj.top/live/cx_385756.flv?wsSecret=83bc29f7915a69450fdb2b2cceae0c3c&wsTime=1783713906
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://euneqwoezet.zztcaigou.com/7701/live/images/3f77bd8cc4be7b707df19d17c879efaf" group-title="Undefined",少妇小湿妹
 http://la193sahrigxt.sqfkkj.top/live/cx_386728.flv?wsSecret=42eb8c675d42989e1f10e3c0a6bb4922&wsTime=1783716607
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://euneqwoezet.zztcaigou.com/7701/live/images/2a7dd8a749b86d975f4e68cce82f8bd9" group-title="Undefined",梅梅
-http://xcrmumeetla.abrillantlee.top/live/cx_386830.flv?wsSecret=f28fe15d8fd302274d18f18232eedcc3&wsTime=1783718507
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="https://euneqwoezet.zztcaigou.com/7701/live/images/21bdc9c24da2802f29e0bad0fcc3e429" group-title="Undefined",小咪
 http://lawoazletjsuet.sqfkkj.top/live/cx_386817.flv?wsSecret=2c676643142a1d138d8cb5023daadd43&wsTime=1783713631
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="" tvg-logo="http://vnnhazkjjfmvjfsr.quanzhanpm.com/7707/live/images/22916dec10f3719144a6e1344daacdb8" group-title="Undefined",精彩剧情@
