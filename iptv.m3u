@@ -285,6 +285,8 @@ https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8
 #EXTINF:-1 tvg-name="淮安影院娱乐" tvg-id="淮安影院娱乐" tvg-logo="https://tb.zbds.top/logo/淮安影院娱乐.png" group-title="地方频道", 淮安影院娱乐
 http://live1.habctv.com/ysylsl/sd/live.m3u8
+#EXTINF:-1 tvg-name="清河经济综艺" tvg-id="清河经济综艺" tvg-logo="https://tb.zbds.top/logo/清河经济综艺.png" group-title="地方频道", 清河经济综艺
+https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="滦平新闻" tvg-id="滦平新闻" tvg-logo="https://tb.zbds.top/logo/滦平新闻.png" group-title="地方频道", 滦平新闻
 http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="烟台公共" tvg-id="烟台公共" tvg-logo="https://tb.zbds.top/logo/烟台公共.png" group-title="地方频道", 烟台公共
@@ -301,6 +303,8 @@ https://stream.hrbtv.net/zxpd/sd/live.m3u8
 https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 #EXTINF:-1 tvg-name="福州生活" tvg-id="FZTV3" tvg-logo="https://tb.zbds.top/logo/福州生活.png" group-title="地方频道", 福州生活
 http://live.zohi.tv:80/video/s10001-fztv-3/index.m3u8
+#EXTINF:-1 tvg-name="福建公共" tvg-id="福建公共" tvg-logo="https://tb.zbds.top/logo/福建公共.png" group-title="地方频道", 福建公共
+https://live.264788.xyz/channel/fujianxiangcungonggong?streamid=1cf7fc3a8f6d160c33b43c2f9507a0cc&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="绍兴公共" tvg-id="绍兴公共" tvg-logo="https://tb.zbds.top/logo/绍兴公共.png" group-title="地方频道", 绍兴公共
 http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
 #EXTINF:-1 tvg-name="绍兴电视台公共" tvg-id="绍兴电视台公共" tvg-logo="https://tb.zbds.top/logo/绍兴电视台公共.png" group-title="地方频道", 绍兴电视台公共
@@ -403,6 +407,8 @@ https://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8?zxinjd
 http://stream5.jlntv.cn/sl/sd/live.m3u8?zjild
 #EXTINF:-1 tvg-name="地理中国" tvg-id="地理中国" tvg-logo="https://tb.zbds.top/logo/地理中国.png" group-title="纪录频道", 地理中国
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c6baf6f74bb944aeacee1065ea72c798/1200.m3u8
+#EXTINF:-1 tvg-name="奎屯汉语" tvg-id="奎屯汉语" tvg-logo="https://tb.zbds.top/logo/奎屯汉语.png" group-title="纪录频道", 奎屯汉语
+http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd
 #EXTINF:-1 tvg-name="柳河" tvg-id="柳河" tvg-logo="https://tb.zbds.top/logo/柳河.png" group-title="纪录频道", 柳河
 http://stream5.jlntv.cn/lh/sd/live.m3u8?zjild
 #EXTINF:-1 tvg-name="桦甸" tvg-id="桦甸" tvg-logo="https://tb.zbds.top/logo/桦甸.png" group-title="纪录频道", 桦甸
